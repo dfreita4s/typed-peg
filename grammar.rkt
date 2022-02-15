@@ -1,4 +1,4 @@
-r u#lang racket
+#lang racket
 
 (require parser-tools/yacc
          typed-peg/core
